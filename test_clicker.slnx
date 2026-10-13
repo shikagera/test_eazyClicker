@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test_clicker/test_clicker.vcxproj" Id="02cac7ab-625b-4632-968c-171fad55785e" />
+</Solution>
